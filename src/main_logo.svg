@@ -16,7 +16,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+     id="title1">Main Logo</title><sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
      bordercolor="#999999"
@@ -28,7 +32,7 @@
      inkscape:document-units="mm"
      showguides="false"
      inkscape:zoom="2.1460286"
-     inkscape:cx="209.92264"
+     inkscape:cx="209.68966"
      inkscape:cy="70.828506"
      inkscape:window-width="1366"
      inkscape:window-height="718"
@@ -51,7 +55,7 @@
          id="tspan47"
          style="stroke-width:0.203"
          x="106.64054"
-         y="241.81209"></tspan></text><text
+         y="241.81209" /></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.2988px;font-family:Glametrix;-inkscape-font-specification:'Glametrix Bold';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.203;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        x="97.47319"
@@ -333,4 +337,15 @@
          inkscape:rounded="0"
          inkscape:randomized="0"
          d="m 70.957947,252.56132 0.377074,0.9764 0.9764,0.37707 -0.9764,0.37708 -0.377074,0.9764 -0.377075,-0.9764 -0.976399,-0.37708 0.976399,-0.37707 z"
-         transform="matrix(1.6227782,0,0,0.29197347,-38.144328,179.77841)" /></g></g></svg>
+         transform="matrix(1.6227782,0,0,0.29197347,-38.144328,179.77841)" /></g></g><metadata
+     id="metadata1"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Main Logo</dc:title><dc:date>28-03-2025</dc:date><dc:rights><cc:Agent><dc:title>Exumbradia Team</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>xvitxr</dc:title></cc:Agent></dc:creator><dc:identifier>main_logo</dc:identifier><dc:subject><rdf:Bag><rdf:li>logo;monochrome</rdf:li></rdf:Bag></dc:subject><dc:description>Official monochrome Exumbradia logo</dc:description><cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/"><cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" /><cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" /><cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" /><cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /><cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" /></cc:License></rdf:RDF></metadata></svg>
